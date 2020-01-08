@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86c1b784-c08a-42a9-8650-409c37559179" name="Default Changelist" comment="" />
+    <list default="true" id="86c1b784-c08a-42a9-8650-409c37559179" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +24,11 @@
     <select />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jxh10248 &lt;jxh0125@163.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1W3mXOGaFclBzTOg2pKxuUshm6f" />
@@ -38,7 +45,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -64,8 +71,16 @@
       <updated>1578386691990</updated>
       <workItem from="1578386693296" duration="1393000" />
       <workItem from="1578449108150" duration="2423000" />
-      <workItem from="1578460477226" duration="55000" />
+      <workItem from="1578460477226" duration="141000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1578460561515</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578460561515</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +90,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/python_practise" />
     </ignored-roots>
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="179" key="#Notifications" timestamp="1578449203294">
@@ -85,14 +102,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578386767923" />
+    <state x="560" y="114" key="CommitChangelistDialog2" timestamp="1578460557909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578460557909" />
     <state x="835" y="411" width="273" height="218" key="Github.ShareDialog" timestamp="1578458133128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="835" y="411" width="273" height="218" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578458133128" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1578460531626">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1578460617237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578460531626" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578460617237" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1578449136691">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
