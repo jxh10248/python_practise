@@ -71,7 +71,7 @@
       <updated>1578386691990</updated>
       <workItem from="1578386693296" duration="1393000" />
       <workItem from="1578449108150" duration="2423000" />
-      <workItem from="1578460477226" duration="1010000" />
+      <workItem from="1578460477226" duration="1469000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1578460561515</created>
@@ -94,7 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578460797059</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1578461795793</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578461795793</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first commit">
+      <created>1578461911690</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578461911690</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,22 +130,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578386767923" />
-    <state x="560" y="114" key="CommitChangelistDialog2" timestamp="1578461793002">
+    <state x="560" y="114" key="CommitChangelistDialog2" timestamp="1578461909153">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578461793002" />
-    <state x="835" y="411" width="273" height="218" key="Github.ShareDialog" timestamp="1578458133128">
+    <state x="560" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578461909153" />
+    <state x="835" y="411" width="273" height="218" key="Github.ShareDialog" timestamp="1578462189926">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="835" y="411" width="273" height="218" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578458133128" />
+    <state x="835" y="411" width="273" height="218" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578462189926" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1578460617237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578460617237" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1578461816016">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1578461913845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578461816016" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578461913845" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578461739865">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
