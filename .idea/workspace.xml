@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python_practise" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1W3mXOGaFclBzTOg2pKxuUshm6f" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,6 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -63,11 +64,17 @@
       <updated>1578386691990</updated>
       <workItem from="1578386693296" duration="1393000" />
       <workItem from="1578449108150" duration="2423000" />
+      <workItem from="1578460477226" duration="55000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/python_practise" />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="179" key="#Notifications" timestamp="1578449203294">
@@ -82,10 +89,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="835" y="411" width="273" height="218" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578458133128" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1578458302644">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1578460531626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578458302644" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578460531626" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1578449136691">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
